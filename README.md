@@ -1,0 +1,1 @@
+# project_azure_ai_vision_01
