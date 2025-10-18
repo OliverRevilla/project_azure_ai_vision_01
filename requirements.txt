@@ -1,4 +1,9 @@
+azure-ai-vision-imageanalysis==1.0.0
+azure-cognitiveservices-vision-customvision
+azure-ai-vision-face==1.0.0b2
+azure-identity 
+openai 
+requests
 dotenv
 matplotlib
 pillow
-azure-ai-vision-imageanalysis==1.0.0
